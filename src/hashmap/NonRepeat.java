@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class NonRepeat {
     public static void main(String[] args) {
-        int a[]={1,1,2,3,4,7,5,2,3,4};
+        int a[]={1,1,2,3,4,5,7,5,2,3,4};
         int n=a.length;
         int result=findNonRepeat(a,n);
         if(result==0)

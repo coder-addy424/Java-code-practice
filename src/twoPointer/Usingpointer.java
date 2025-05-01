@@ -3,7 +3,7 @@ package twoPointer;
 public class Usingpointer {
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5, 6, 7};
-        int k = 3;
+        int k = 121;
         int[] rotation = rotationOneArray(a, k);
         for (int i = 0; i < rotation.length; i++) {
             System.out.print(rotation[i] + " ");

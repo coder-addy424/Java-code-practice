@@ -2,7 +2,7 @@ package arrayQuestion;
 
 public class ReverseArray {
     public static void main(String []args){
-        int[] a={1,4,8,9,14,23};
+        int[] a={1,8,4,9,14,23};
         System.out.println("Array without Reverse ");
         for(int i=0;i<a.length;i++)
         {

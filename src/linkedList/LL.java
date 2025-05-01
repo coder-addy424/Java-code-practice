@@ -139,9 +139,7 @@ public class LL {
     //Main Method
     public static void main(String[] args) {
         LL list = new LL();
-        list.addLast(" my -> friend ");
-       list.addFirst(" is ");
-       list.addFirst("Rahul ");
+
        list.printList();
         System.out.println("Size of List is : "+list.getSize());
     }

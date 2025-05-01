@@ -2,9 +2,9 @@ package arrayQuestion;
 
 public class SortArray {
     public static void main(String[] args) {
-     // int a[] = {1, 3, 4, 5, 5, 6, 1};
+     int a[] = {1, 3, 4, 5, 5, 6, 1};
 
-        int[] a = {1,2,3,4,4};
+      //  int[] a = {1,2,3,4,4};
       // int[] a= {5,4,3,2,1};
        int key=3;
      //   boolean res = isAscending(a);

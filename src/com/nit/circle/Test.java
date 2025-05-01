@@ -13,7 +13,6 @@ public class Test {
             String circle = Circle.getAreaOfCircle(radius);
             double area = Double.parseDouble(circle);
 
-
             DecimalFormat df = new DecimalFormat("00.00");
             System.out.println("Area of Circle is :"+df.format(area));
             sc.close();
